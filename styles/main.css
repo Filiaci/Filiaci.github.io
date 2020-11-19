@@ -1,0 +1,30 @@
+body {
+background-color: black;
+}
+
+.title{
+    color:white;
+    font-size: xx-large;
+}
+.image {
+    background-color: black;
+    height: 100!important;
+    width: 80!important;
+}
+
+.white{
+    color: white;
+}
+
+.circle {
+border-radius: 4%;
+}
+
+.bottom {
+    text-align: center!important;
+}
+
+.px-2 {
+    padding-left: <2.5>!important;
+    padding-right: <4.5> !important;
+  }
